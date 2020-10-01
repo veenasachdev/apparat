@@ -1,5 +1,5 @@
     
-	Apparat
+	Apparat-an amazing project
 	http://apparat.googlecode.com/
 	
 	Apparat is a framework to work with ABC, SWC and SWF files. You can use the core framework
